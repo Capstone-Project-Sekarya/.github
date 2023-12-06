@@ -14,13 +14,13 @@ This project developed for the capstone project
 
 | Student ID  | Member                                  | Path                | GitHub                                                  |
 | :---------: | :-------------------------------------: |:-----------------:  | :-----------------------------------------------------: |
-| M174BSX0029 | Sayyidah Amalia Rokhimah                | Machine Learning    | [@DwiBagiaSantosa](https://github.com/DwiBagiaSantosa)
-| M174BSY1616 | I Putu Rama Astra Arimbawa              | Machine Learning    | [@ashayahya](https://github.com/ashayahya)
-| M403BSY1817 | I Made Dwaja Sanjaya                    | Machine Learning    | [@AntiAndari](https://github.com/AntiAndari)
-| C014BSY4122 | Ricardo Dirk Anderson                   | Cloud Computing     | [@dwipradnyana](https://github.com/dwipradnyana)
-| C014BSY4382 | Moh Prayogi                             | Cloud Computing     | [@Bagastricahyo](https://github.com/Bagastricahyo)
-| A403BSX2609 | Ni Kadek Viscayanti                     | Mobile Development  | [@arbaap](https://github.com/arbaap)
-| A278BSY2172 | Muh. Nur Hidayat Al Amanah Muslimin     | Mobile Development  | [@arbaap](https://github.com/arbaap)
+| M174BSX0029 | Sayyidah Amalia Rokhimah                | Machine Learning    | [@sayyidahbisa](https://github.com/sayyidahbisa)
+| M174BSY1616 | I Putu Rama Astra Arimbawa              | Machine Learning    | [@ramaastra](https://github.com/ramaastra)
+| M403BSY1817 | I Made Dwaja Sanjaya                    | Machine Learning    | [@Dwajasanjaya](https://github.com/Dwajasanjaya)
+| C014BSY4122 | Ricardo Dirk Anderson                   | Cloud Computing     | [@ricardoanderson03](https://github.com/ricardoanderson03)
+| C014BSY4382 | Moh Prayogi                             | Cloud Computing     | [@Magnuver](https://github.com/Magnuver)
+| A403BSX2609 | Ni Kadek Viscayanti                     | Mobile Development  | [@Viscaaaa](https://github.com/Viscaaaa)
+| A278BSY2172 | Muh. Nur Hidayat Al Amanah Muslimin     | Mobile Development  | [@Kirigayayat](https://github.com/Kirigayayat)
 
 ## 🛠 Built with:
 
