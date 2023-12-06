@@ -62,8 +62,8 @@ In our project is divided into four branches:
 
 | Nama  | LinkedIn |
 |-------|----------|
-| Sayyidah Amalia Rokhimah  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rama-astra/)  |
-| I Putu Rama Astra Arimbawa  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyidah-amalia-rokhimah/)  |
+| Sayyidah Amalia Rokhimah  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyidah-amalia-rokhimah/)  |
+| I Putu Rama Astra Arimbawa  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rama-astra/)  |
 | I Made Dwaja Sanjaya  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwaja-sanjaya-6b75a1292/)  |
 | Ricardo Dirk Anderson  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-dirk-anderson-b24498283/)  |
 | Moh Prayogi  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moh-prayogi-%E3%83%97%E3%83%A9%E3%83%A8%E3%82%AE-563971192/)  |
