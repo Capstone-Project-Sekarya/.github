@@ -1,4 +1,4 @@
-## Product-Based Capstone "Sekarya" - Mobile AI-powered application designed to be a platform for artists 👋
+# Product-Based Capstone "Sekarya" - Mobile AI-powered application designed to be a platform for artists 👋
 ## Team ID: CH23-PS019
 
 This project developed for the capstone project 
