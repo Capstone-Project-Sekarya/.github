@@ -62,9 +62,10 @@ In our project is divided into four branches:
 
 | Nama  | LinkedIn |
 |-------|----------|
-| Azvadennys Vasiguhamiaz  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azvadennys-vasiguhamiaz/)  |
-| Salsabilla Adisty  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salsabilla-adisty-180685218/)  |
-| Rahmita Dwi Kurnia  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmita-dwi/)  |
-| Muhammad Zaki Hamdani  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zaki-hamdani-b1b8541b9/)  |
-| Hanif Amar Muzakki  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-muzakki-48892a169/)  |
-| Ardhani Ahlan  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardhani-ahlan-5a1312170/)  |
+| Sayyidah Amalia Rokhimah  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azvadennys-vasiguhamiaz/)  |
+| I Putu Rama Astra Arimbawa  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salsabilla-adisty-180685218/)  |
+| I Made Dwaja Sanjaya  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahmita-dwi/)  |
+| Ricardo Dirk Anderson  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zaki-hamdani-b1b8541b9/)  |
+| Moh Prayogi  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-muzakki-48892a169/)  |
+| Ni Kadek Viscayanti  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardhani-ahlan-5a1312170/)  |
+| Muh. Nur Hidayat Al Amanah Muslimin  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardhani-ahlan-5a1312170/)  |
