@@ -72,7 +72,7 @@ In our project is divided into four branches:
 | Ricardo Dirk Anderson  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-dirk-anderson-b24498283/)  |
 | Moh Prayogi  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moh-prayogi-%E3%83%97%E3%83%A9%E3%83%A8%E3%82%AE-563971192/)  |
 | Ni Kadek Viscayanti  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ni-kadek-viscayanti-62ba52295/)  |
-| Muh. Nur Hidayat Al Amanah Muslimin  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](-)  |
+| Muh. Nur Hidayat Al Amanah Muslimin  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nurhidayat-a-m-2bbb66290)  |
 
 
 <h3 align="left">Languages and Tools:</h3>
