@@ -3,7 +3,7 @@
 
 This project developed for the capstone project 
 
-<img src="./assets/Cover Github.png">
+<img src="https://github.com/Capstone-Project-Sekarya/sekarya-cloud-computing/blob/main/assets/Cover Github.png">
 
 ## 📖 Description :
 
