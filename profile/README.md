@@ -23,7 +23,7 @@ The advancement of artificial intelligence (AI) has transformed various fields, 
 | M403BSY1817 | I Made Dwaja Sanjaya                    | Machine Learning    | [@Dwajasanjaya](https://github.com/Dwajasanjaya)
 | C014BSY4122 | Ricardo Dirk Anderson                   | Cloud Computing     | [@ricardoanderson03](https://github.com/ricardoanderson03)
 | C014BSY4382 | Moh Prayogi                             | Cloud Computing     | [@Magnuver](https://github.com/Magnuver)
-| A403BSX2609 | Ni Kadek Viscayanti                     | Mobile Development  | [@Viscaaaa](https://github.com/Viscaaaa)
+| A403BSX2609 | Ni Kadek Visca Yanti                     | Mobile Development  | [@Viscaaaa](https://github.com/Viscaaaa)
 | A278BSY2172 | Muh. Nur Hidayat Al Amanah Muslimin     | Mobile Development  | [@Kirigayayat](https://github.com/Kirigayayat)
 
 ## 🛠 Built with:
@@ -77,7 +77,7 @@ https://www.figma.com/file/2qiXjBZBP1C5QTJFRznT5j/Bangkit-Capstone-Sekarya?type=
 | I Made Dwaja Sanjaya  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwaja-sanjaya-6b75a1292/)  |
 | Ricardo Dirk Anderson  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-dirk-anderson-b24498283/)  |
 | Moh Prayogi  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moh-prayogi-%E3%83%97%E3%83%A9%E3%83%A8%E3%82%AE-563971192/)  |
-| Ni Kadek Viscayanti  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ni-kadek-viscayanti-62ba52295/)  |
+| Ni Kadek Visca Yanti  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ni-kadek-viscayanti-62ba52295/)  |
 | Muh. Nur Hidayat Al Amanah Muslimin  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nurhidayat-a-m-2bbb66290)  |
 
 
