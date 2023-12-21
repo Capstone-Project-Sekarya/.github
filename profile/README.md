@@ -25,7 +25,7 @@ The advancement of artificial intelligence (AI) has transformed various fields, 
 | M403BSY1817 | I Made Dwaja Sanjaya                    | Machine Learning    | [@Dwajasanjaya](https://github.com/Dwajasanjaya)
 | C014BSY4122 | Ricardo Dirk Anderson                   | Cloud Computing     | [@ricardoanderson03](https://github.com/ricardoanderson03)
 | C014BSY4382 | Moh Prayogi                             | Cloud Computing     | [@Magnuver](https://github.com/Magnuver)
-| A403BSX2609 | Ni Kadek Visca Yanti                     | Mobile Development  | [@Viscaaaa](https://github.com/Viscaaaa)
+| A403BSX2609 | Ni Kadek Visca Yanti                    | Mobile Development  | [@Viscaaaa](https://github.com/Viscaaaa)
 | A278BSY2172 | Muh. Nur Hidayat Al Amanah Muslimin     | Mobile Development  | [@Kirigayayat](https://github.com/Kirigayayat)
 
 ## 🛠 Built with:
