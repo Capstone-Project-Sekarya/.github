@@ -63,7 +63,7 @@ In our project is divided into four branches:
   - [Cloud Computing](-)
   - [Mobile Development](-)
 
-## Figma Mock Up Link
+## Figma UI/UX Link
 ```
 https://www.figma.com/file/2qiXjBZBP1C5QTJFRznT5j/Bangkit-Capstone-Sekarya?type=design&node-id=0%3A1&mode=design&t=simrFgZClletIWOM-1
 ```
