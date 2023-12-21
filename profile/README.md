@@ -3,6 +3,8 @@
 
 This project developed for the capstone project 
 
+<img src="./assets/Cover Github.png">
+
 ## 📖 Description :
 
 The advancement of artificial intelligence (AI) has transformed various fields, including art. AI can now be used to produce realistic and difficult-to-distinguish-from-human-made artworks. This poses a threat to artists, who are concerned that their work will be replaced by AI-generated works. From the problems that we have encountered, we have determined the main question that we need to solve: "What should be done to provide opportunities for artists to sell their work without having to worry about being outcompeted by AI-generated works?"
