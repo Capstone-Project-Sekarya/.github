@@ -50,9 +50,10 @@ The advancement of artificial intelligence (AI) has transformed various fields, 
 ## 📱 Features of Sekarya APP
 
 - Detect Painting and Vector species predictions using camera
-- Provides detailed information on the types of .... predicted (description and ratings)
-- Give some reccomenders about ..... 
-- All user can upload story about .....
+- Provides detailed information on the types of Art predicted (description and ratings)
+- Give some reccomenders about artists/art 
+- All user can upload story about art
+- All user can hire commission art
 - Track the story position with google maps
 
 ## 🔗 Repository Branches
