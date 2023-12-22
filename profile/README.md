@@ -61,8 +61,8 @@ The advancement of artificial intelligence (AI) has transformed various fields, 
 
 In our project is divided into three branches:
   - [Machine Learning](https://github.com/Capstone-Project-Sekarya/sekarya-machine-learning)
-  - [Cloud Computing](-)
-  - [Mobile Development](-)
+  - [Cloud Computing](https://github.com/Capstone-Project-Sekarya/sekarya-cloud-computing)
+  - [Mobile Development](https://github.com/Capstone-Project-Sekarya/sekarya-mobile-app)
 
 ## 🎨 Figma UI/UX Link:
 ```
