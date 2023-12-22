@@ -59,8 +59,8 @@ The advancement of artificial intelligence (AI) has transformed various fields, 
 
 ## 🔗 Repository Branches
 
-In our project is divided into four branches:
-  - [Machine Learning](-)
+In our project is divided into three branches:
+  - [Machine Learning](https://github.com/Capstone-Project-Sekarya/sekarya-machine-learning)
   - [Cloud Computing](-)
   - [Mobile Development](-)
 
